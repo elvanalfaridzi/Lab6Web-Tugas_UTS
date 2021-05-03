@@ -14,7 +14,7 @@ Dosen Pengajar : Agung Nugroho, S.Kom., M.Kom.
 
 Praktikum UTS
 
-*Tampilan Web*
+# *Tampilan Web*
 
 ![image](https://user-images.githubusercontent.com/82002182/116880499-4a5c7f80-ac4c-11eb-921d-0b610d4f5be7.png)
 
